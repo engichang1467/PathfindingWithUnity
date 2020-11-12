@@ -5,7 +5,7 @@
 
 - [Check out the Demo on Unity](https://youtu.be/siYMawmwk1I)
 
-## The grid
+## The Grid Layout
 
 ![](img/grid.png)
 
